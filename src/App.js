@@ -79,7 +79,7 @@ function TabContent({ item }) {
     // setLikes(likes + 1);
     // setLikes(likes + 1);
 
-    // To update state here use callback to get access to the latest state in order to continue to update.(update state based on current state use callback function)
+    // To update state here use callback to get access to the latest state in order to continue to update.(update state based on current state use callback function.)
     setLikes((likes) => likes + 1);
     setLikes((likes) => likes + 1);
     setLikes((likes) => likes + 1);
